@@ -1,0 +1,3 @@
+[submodule "qaui_tiny"]
+	path = qaui_tiny
+	url = git+ssh://git@github.com/efong-apigee/qaui_tiny
